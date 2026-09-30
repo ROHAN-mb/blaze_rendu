@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Jim+Nightshade&display=swap');
+
+.fond-minecraft{
+    background-image: url(minecraft.background.png);
+}
+.minecraft-bg{
+   border: 20px solid hotpink;
+   border-radius: 20px;
+}
+.achi{
+    width: 30%;
+    height: auto;
+}
+
+
+.principal_title{
+ width: 650px;
+ height: 650px; 
+ display: flex;
+}
+
+body {
+text-align: center;
+}
+.achievements {
+width: auto;
+height: 200px;
+}
+ 
+.achievements_2 {
+width: auto;
+height: 200px;
+}
+ 
+.achievements_3 {
+    width: auto;
+    height: 00px;
+}
+
